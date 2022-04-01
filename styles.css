@@ -4,8 +4,18 @@
     font-family: Verdana, Arial;
 }
 
+img {
+    width: 700px;
+    height: auto;
+}
+
 p {
     font-size: 24px;
+}
+
+div {
+    font-size: 14px;
+    font-style: italic;
 }
 
 
